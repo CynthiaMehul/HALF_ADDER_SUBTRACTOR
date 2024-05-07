@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![Half Adder Subtractor](https://github.com/CynthiaMehul/HALF_ADDER_SUBTRACTOR/assets/150319444/f6a16e31-c978-412c-bd71-086c7d1df268)
 
 **Procedure**
 
@@ -69,10 +70,10 @@ and(Bo,abar,b);
 endmodule
 ```
 
-**RTL Schematic**
+**RTL Schematic:**
 ![exp3 output2](https://github.com/CynthiaMehul/HALF_ADDER_SUBTRACTOR/assets/150319444/9974c7c9-7293-4314-a1eb-aadc1ec361de)
 
-**Output/TIMING Waveform**
+**Waveform:**
 ![exp3 output1](https://github.com/CynthiaMehul/HALF_ADDER_SUBTRACTOR/assets/150319444/ad0edc83-470f-452b-8270-7c26f694ee3b)
 
 **Result:**
